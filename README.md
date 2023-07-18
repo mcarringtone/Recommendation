@@ -21,3 +21,12 @@ The laptop features a simple design with an Arctic Gray ABS plastic chassis. Its
 The laptop's 15.6-inch non-touch screen has a resolution of 1920x1080 pixels. While it may appear slightly dim, it is still suitable for comfortable use. The keyboard is backlit and includes a numeric keypad, although the arrangement of the cursor arrow keys is less ideal. The laptop offers a good selection of ports, including USB 3.2 ports, an HDMI port, an audio jack, and an SD card slot.
 
 Performance tests indicate that the IdeaPad 3i performs satisfactorily for office tasks, web browsing, and other everyday activities. However, it may not excel in processor-intensive workloads. The display quality is decent, although colors may appear slightly washed out.
+
+
+# Recomendation
+
+The Microsoft Surface Go offers several advantages. Its compact and lightweight form factor makes it highly portable, catering to power users like ourselves. The 2-in-1 design adds versatility, functioning both as a tablet and a laptop with a detachable keyboard for productivity tasks. This would be good for our company because we use 365 Enterprise and the Microsoft Surface is a flagship product by Microsoft.
+
+
+
+
